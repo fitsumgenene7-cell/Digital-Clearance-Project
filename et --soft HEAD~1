@@ -1,0 +1,29 @@
+[33mcommit 1c91a6ac6b7d2f3b9542d772905281e023528c3e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: bahie721 <behailuhagos21@gmail.com>
+Date:   Sat Nov 29 13:21:20 2025 +0300
+
+    student name fixed
+
+[33mcommit 2a9a33912e84919c21555b58a35127085595e35e[m
+Author: Genene Fitsum <fitsumgenene7@gmail.com>
+Date:   Sat Nov 29 16:02:49 2025 +0300
+
+    Redesigned Database: Separated students and offices tables
+
+[33mcommit 981694a5ea0d4772550ff9a04df7502a13ac2741[m
+Author: Genene Fitsum <fitsumgenene7@gmail.com>
+Date:   Sat Nov 29 15:34:39 2025 +0300
+
+    Database Initialized
+
+[33mcommit 574c8d00d31927a8f6f65c19fb12b6ac52c27ec8[m
+Author: Genene Fitsum <fitsumgenene7@gmail.com>
+Date:   Sat Nov 29 15:14:51 2025 +0300
+
+    first commit
+
+[33mcommit 9ff7219a54f29d8ed53fe268dbfd943a869176bb[m
+Author: Genene Fitsum <fitsumgenene7@gmail.com>
+Date:   Sat Nov 29 15:04:40 2025 +0300
+
+    Initial Commit
