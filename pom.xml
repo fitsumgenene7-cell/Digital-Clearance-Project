@@ -54,7 +54,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.1.0</version>
                 <configuration>
-                    <mainClass>Main</mainClass>
+                    <mainClass>com.example.clearance.Main</mainClass>
                     <arguments>
                         <argument>--module-path</argument>
                         <argument>/Users/genenefitsum/Downloads/javafx-sdk-20.0.1/lib</argument>
