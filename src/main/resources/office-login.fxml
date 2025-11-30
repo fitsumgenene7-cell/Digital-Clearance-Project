@@ -17,7 +17,7 @@
         </font>
     </Label>
 
-    <VBox alignment="CENTER_LEFT" spacing="10.0" style="-fx-background-color: rgba(255, 175, 175, 0.7); -fx-background-radius: 10; -fx-padding: 20;">
+    <VBox alignment="CENTER_LEFT" spacing="10.0" style="-fx-background-color: rgba(255, 175, 175, 0.5); -fx-background-radius: 10; -fx-padding: 20;">
         <Label text="Office Name" style="-fx-font-weight: bold;"/>
         <TextField fx:id="officeNameField" promptText="Enter office name" prefWidth="250"/>
 
