@@ -14,9 +14,9 @@
     <!-- Back to Home Button -->
     <HBox alignment="TOP_LEFT" style="-fx-padding: 20;">
         <Button text="← Back to Home" onAction="#goBackToHome"
-                style="-fx-background-color: rgba(255,255,255,0.2); -fx-text-fill: white;
-                       -fx-background-radius: 20; -fx-padding: 8 20; -fx-border-width: 0;
-                       -fx-cursor: hand; -fx-font-size: 14px;">
+                style="-fx-background-color: rgba(0,0,0,0.7); -fx-text-fill: white;
+               -fx-background-radius: 20; -fx-padding: 8 20; -fx-border-width: 0;
+               -fx-cursor: hand; -fx-font-size: 14px;">
             <HBox.margin>
                 <Insets top="10" left="10"/>
             </HBox.margin>
