@@ -149,7 +149,7 @@
     <VBox alignment="CENTER" spacing="5" style="-fx-padding: 20;">
         <Label text="University Administration System - Secure Access Only"
                style="-fx-text-fill: rgba(255,255,255,0.8); -fx-font-size: 13px;"/>
-        <Label text="© 2024 Bahir Dar Institute of Technology"
+        <Label text="© 2025 Hawassa university, Institute of Technology"
                style="-fx-text-fill: rgba(255,255,255,0.6); -fx-font-size: 12px;"/>
     </VBox>
 </VBox>

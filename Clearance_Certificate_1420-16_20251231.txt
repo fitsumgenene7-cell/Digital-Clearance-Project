@@ -1,0 +1,27 @@
+╔════════════════════════════════════════════════════════════╗
+║                 OFFICIAL CLEARANCE CERTIFICATE             ║
+║                   DIGITAL CLEARANCE SYSTEM                 ║
+╚════════════════════════════════════════════════════════════╝
+
+CERTIFICATE NO: CLR-1420/16-2025
+ISSUE DATE: 2025-12-31
+VALID UNTIL: 2026-06-30
+
+STUDENT NAME: BEHAILU HAGOS ADANE
+STUDENT ID:   1420/16
+ISSUED ON:    2025-12-31T21:37:15.992248200
+
+OFFICE STATUS:
+OFFICE                    STATUS          REASON                        
+--------------------------------------------------------------------
+Cafeteria                 APPROVED        Not yet reviewed              
+Dormitory                 APPROVED        Cleared by dormitory chief    
+Faculty                   APPROVED        Not yet reviewed              
+Library                   APPROVED        Not yet reviewed              
+Police Office             APPROVED        Not yet reviewed              
+Sport                     APPROVED        Cleared by office             
+Student Service           APPROVED        Not yet reviewed              
+
+OVERALL CLEARANCE STATUS: CLEARED ✅
+
+
